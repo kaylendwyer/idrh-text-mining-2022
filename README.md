@@ -1,1 +1,1 @@
-# idrh-text-mining-2022
+# IDRH Workshop Intro to Text Mining
